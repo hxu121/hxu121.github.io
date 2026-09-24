@@ -16,7 +16,7 @@ My research focuses on the micro and nanosystems sensor realization by
 * Nanoelectromechanical modeling (mathematical modeling, multiphysics simulation)
 * Experimental measurement (microwave, electrical, optical readout)
 
-my research goal aims at engineering-guided nanosensors making humans live healthier and safer. For example, nanoelectronic NEMS and nanophotonic lasers are involved in quantum circuits sensors, COMS technology as well as biomedical imaging.
+my research goal aims at engineering-guided nanosensors making humans live healthier and safer. For example, nanoelectronic NEMS and nanophotonic lasers are involved in quantum circuits sensors, CMOS technology as well as biomedical imaging.
 
 In particular, nanotip/membrane interface and principles have been studied during my PhD. Then, my research further explores the neuroelectronics (NeuronTech), including interface design, principles and signal processing.
 
