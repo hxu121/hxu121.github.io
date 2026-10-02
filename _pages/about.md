@@ -28,4 +28,6 @@ Xu H. (2023). Analysis of device properties of silicon nitride membrane nanoelec
 
 **Research keywords** - MEMS and NEMS, Nanoelectronics, Semiconductor devices, Neuroelectronics
 
+Outside of research: 1 year Triathlon (ironman 70.3 race), 1 year Swimming, 10 years Marathon, 3 years Cooking
+
 Feel free to reach me by emails: haox (at) tsinghua(dot)edu(dot)cn 
