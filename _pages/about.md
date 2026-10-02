@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome! I am Hao Xu, I am currently a Postdoctoral Research Fellow (in semiconductor nanosensors) working with Yongzhuo Li and Kaiyu Cui in the [Nano-Optoelectronics Lab](https://nano-oelab.ee.tsinghua.edu.cn/Home/Jsxx/jsxx_1?lang=en&id=810) at Tsinghua University. Previously trained by both experimental physicists and engineers, the interdisciplinary experience builds my expertise skills from physics to engineering and technology. My CV [here](files/CV_HaoXu_092026.pdf).
+Welcome! I am Hao Xu, I am currently a Postdoctoral Research Fellow (in semiconductor nanosensors) working with Yongzhuo Li and Kaiyu Cui in the [Nano-Optoelectronics Lab](https://nano-oelab.ee.tsinghua.edu.cn/Home/Jsxx/jsxx_1?lang=en&id=810) at Tsinghua University. Previously trained by both experimental physicists and engineers, the interdisciplinary experience builds my expertise skills from physics to engineering and technology.
 
 My research focuses on the micro and nanosystems sensor realization by
 
@@ -28,6 +28,6 @@ Xu H. (2023). Analysis of device properties of silicon nitride membrane nanoelec
 
 **Research keywords** - MEMS and NEMS, Nanoelectronics, Semiconductor devices, Neuroelectronics
 
-Outside of research: 1 year Triathlon (ironman 70.3 race), 1 year Swimming, 10 years Marathon, 3 years Cooking
+Outside of research: Triathlon (ironman 70.3 race), Swimming, Marathon, Cooking
 
 Feel free to reach me by emails: haox (at) tsinghua(dot)edu(dot)cn 
