@@ -12,13 +12,13 @@ Welcome! I am Hao Xu, currently a Postdoctoral Research Fellow (in semiconductor
 
 My research focuses on the micro and nanosystems & sensors realization by
 
-* Advanced manufacturing (micro and nanofabrication, cleanroom process)
+* Advanced manufacturing (micro and nanofabrication in cleanroom)
 * Nanoelectromechanical device modeling (mathematical modeling, multiphysics simulation)
 * Hands-on experiments (microwave, electrical, optical readout)
 
-my research goal aims at engineering-guided nanosensors making humans live healthier and safer. For example, nanoelectronic NEMS and semiconductor nanolasers are involved in quantum circuits sensors, CMOS technology as well as biomedical imaging.
+my research goal aims at engineering-guided nanosensors making humans live healthier and safer. For example, nanoelectronic NEMS and semiconductor nanolasers are involved in quantum circuits sensors, CMOS-compatible device technology as well as biomedical imaging.
 
-In particular, nanotip/membrane interface and principles have been studied during my PhD. Then, my research further explores the neuroelectronics (NeuronTech), including interface design, principles and signal processing.
+In particular, nanotip/membrane electronic interface and principles in the nanoscale have been studied during my PhD. Then, my research further explores the neuroelectronic device (in NeuronTech), including device engineering design, proof-of-concept principles and neural signal acquisition & processing. These problems-solving techniques will benefit for the disabilities (e.g., paralyzed people, the deaf, the blind).
 
 ## Short CV
 
