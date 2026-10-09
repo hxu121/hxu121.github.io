@@ -18,7 +18,7 @@ My research focuses on the micro and nanosystems & sensors realization by
 
 my research goal aims at engineering-guided nanosensors making humans live healthier and safer. For example, nanoelectronic NEMS and semiconductor nanolasers are involved in quantum circuits sensors, CMOS-compatible device technology as well as biomedical imaging.
 
-In particular, nanotip/membrane electronic interface and principles in the nanoscale have been studied during my PhD. Then, my research further explores the neuroelectronic device (in NeuronTech), including device engineering design, proof-of-concept principles and neural signal acquisition & processing. These problems-solving techniques will benefit for the disabilities (e.g., paralyzed people, the deaf, the blind).
+In particular, nanotip/membrane electronic interface and principles in the nanoscale have been studied during my PhD. Then, my research further explores the neuroelectronic device (in NeuronTech), including device engineering design, proof-of-concept principles and neural signal acquisition & processing. These problems-solving techniques will benefit for the disabilities (e.g., paralyzed people).
 
 ## Short CV
 
@@ -35,6 +35,6 @@ Xu H. (2023). Analysis of device properties of silicon nitride membrane nanoelec
 **Research keywords** - MEMS and NEMS, Nanoelectronics, Semiconductor devices, Neuroelectronics
 
 Outside of research: Ironman 70.3 race (perseverance), Swimming (courage), Marathon (focus), Classical music (peaceful) and Cooking (quiet).
-Besides, I am regularly reading science-fic and enjoying the universe ([APOD](https://science.nasa.gov/apod/archive/)).
+Besides, I am regularly reading science-fic and enjoying the universe ([apod](https://science.nasa.gov/apod/archive/)).
 
 Feel free to reach me by emails: haox (at) tsinghua(dot)edu(dot)cn 
