@@ -47,7 +47,7 @@ Department of Electronic Science and Technology<br/>
 
 **Research keywords**: MEMS and NEMS, Nanoelectronics, Semiconductor devices, Neuroelectronics
 
-Outside of research: Ironman 70.3 race (perseverance), Swimming (courage), Marathon (focus), Classical music (peaceful) and Cooking (quiet).
+Outside of research: Ironman 70.3 race (Swimming, Marathon), Classical music.<br/>
 Besides, I am regularly reading science-fic and enjoying the universe ([apod](https://science.nasa.gov/apod/archive/)).
 
 Contacts: haox (at) tsinghua.edu.cn 
