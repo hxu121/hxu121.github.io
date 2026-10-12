@@ -32,7 +32,7 @@ Department of Electronic Engineering<br/>
 Institute for Electronics, Microelectronics and Nanotechnology (IEMN-UMR 8520)<br/>
 2020-2024, Ph.D. ([Thesis](https://theses.hal.science/tel-04684713v1/file/These_XU_Hao.pdf)), supervised by Prof. Didier Theron and Prof. Xin Zhou.
 
-[Xi'an Jiaotong University](https://www.xjtu.edu.cn/) ([西安交通大学](http://en.xjtu.edu.cn/about.html))<br/>
+[Xi'an Jiaotong University](http://en.xjtu.edu.cn/about.html) ([西安交通大学](https://www.xjtu.edu.cn/))<br/>
 
 Department of Electronic science and technology<br/>
 2015-2018, M.Eng., supervised by Prof. Wenhui Yi.
