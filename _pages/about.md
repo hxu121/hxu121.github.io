@@ -26,24 +26,28 @@ In particular, nanotip/membrane electronic interface and principles in the nanos
 
 Department of Electronic Engineering<br/>
 2024-Now, Post doctoral, working with Prof. Yongzhuo Li and Prof. Kaiyu Cui.
+<img src="https://hxu121.github.io/images/thu_102026_v2.jpg?raw=true" alt="Photo" style="width: 500px;"/>
 
 [Centre National de la Recherche Scientifique](https://www.cnrs.fr/fr)/[Universite de Lille](https://www.univ-lille.fr/)<br/>
 
 Institute for Electronics, Microelectronics and Nanotechnology (IEMN-UMR 8520)<br/>
-2020-2024, Ph.D. ([Thesis](https://theses.hal.science/tel-04684713v1/file/These_XU_Hao.pdf)), supervised by Prof. Didier Theron and Prof. Xin Zhou.
+2020-2024, Ph.D. ([Thesis](https://theses.hal.science/tel-04684713v1/file/These_XU_Hao.pdf)), supervised by Dr. Didier Theron and Dr. Xin Zhou.
+<img src="https://hxu121.github.io/images/iemn_102026_v2.jpg?raw=true" alt="Photo" style="width: 500px;"/>
 
 [Xi'an Jiaotong University](http://en.xjtu.edu.cn/about.html) ([西安交通大学](https://www.xjtu.edu.cn/))<br/>
 
-Department of Electronic science and technology<br/>
-2015-2018, M.Eng., supervised by Prof. Wenhui Yi.
+Department of Electronic Science and Technology<br/>
+2015-2018, M.Eng., supervised by Prof. Wenhui Yi.<br/>
+<img src="https://hxu121.github.io/images/xjtu_102026_v2.jpg?raw=true" alt="Photo" style="width: 500px;"/>
 
 [University of California, San Diego](https://ucsd.edu/about/index.html)
 
-2017, Visiting grad student, supervised by Prof. Wenhui Yi.
+2017, Visiting grad student, supervised by Prof. Wenhui Yi.<br/>
+<img src="https://hxu121.github.io/images/ucsd_102026_v2.jpg?raw=true" alt="Photo" style="width: 500px;"/>
 
-**Research keywords** - MEMS and NEMS, Nanoelectronics, Semiconductor devices, Neuroelectronics
+**Research keywords**: MEMS and NEMS, Nanoelectronics, Semiconductor devices, Neuroelectronics
 
 Outside of research: Ironman 70.3 race (perseverance), Swimming (courage), Marathon (focus), Classical music (peaceful) and Cooking (quiet).
 Besides, I am regularly reading science-fic and enjoying the universe ([apod](https://science.nasa.gov/apod/archive/)).
 
-Feel free to reach me by emails: haox (at) tsinghua(dot)edu(dot)cn 
+Contacts: haox (at) tsinghua.edu.cn 
