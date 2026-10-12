@@ -20,17 +20,26 @@ my research goal aims at engineering-guided nanosensors making humans live healt
 
 In particular, nanotip/membrane electronic interface and principles in the nanoscale have been studied during my PhD. Then, my research further explores the neuroelectronic device (in NeuronTech), including device engineering design, proof-of-concept principles and neural signal acquisition & processing. These problems-solving techniques will benefit for the disabilities (e.g., paralyzed people).
 
-## Short CV
+## Short C.V.
 
-2024-Now, Post doctorate (in semiconductor nanosensors), Tsinghua University, working with Yongzhuo Li and Kaiyu Cui.
+[Tsinghua University](https://www.tsinghua.edu.cn/en/) ([清华大学](https://www.tsinghua.edu.cn/))<br/>
 
-2020-2024, PhD (in nanoelectronics), CNRS/Univ. Lille, working with Didier Theron and Xin Zhou in France.
+Department of Electronic Engineering<br/>
+2024-Now, Post doctoral, working with Prof. Yongzhuo Li and Prof. Kaiyu Cui.
 
-Xu H. (2023). Analysis of device properties of silicon nitride membrane nanoelectromechanical resonators for future optomechanical thermometry applications. Doctoral Thesis, CNRS/Univ. Lille. Available [here](https://theses.hal.science/tel-04684713v1/file/These_XU_Hao.pdf).
+[Centre National de la Recherche Scientifique](https://www.cnrs.fr/fr)/[Universite de Lille](https://www.univ-lille.fr/)<br/>
 
-2018-2020, Research assistant (in nanophotonics), Tsinghua University [TBSI](https://www.sigs.tsinghua.edu.cn/).
+Institute for Electronics, Microelectronics and Nanotechnology (IEMN-UMR 8520)<br/>
+2020-2024, Ph.D. ([Thesis](https://theses.hal.science/tel-04684713v1/file/These_XU_Hao.pdf)), supervised by Prof. Didier Theron and Prof. Xin Zhou.
 
-2017, Visiting grad student, University of California at San Diego ([UCSD](https://ucsd.edu/about/index.html)).
+[Xi'an Jiaotong University](https://www.xjtu.edu.cn/) ([西安交通大学](http://en.xjtu.edu.cn/about.html))<br/>
+
+Department of Electronic science and technology<br/>
+2015-2018, M.Eng., supervised by Prof. Wenhui Yi.
+
+[University of California, San Diego](https://ucsd.edu/about/index.html)
+
+2017, Visiting grad student, supervised by Prof. Wenhui Yi.
 
 **Research keywords** - MEMS and NEMS, Nanoelectronics, Semiconductor devices, Neuroelectronics
 
