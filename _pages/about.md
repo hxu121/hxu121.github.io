@@ -12,20 +12,12 @@ Welcome! I am Hao Xu, currently a Postdoctoral Research Fellow (in semiconductor
 
 ## Research
 
-I am interested in the micro and nanosystems & sensors realization by
-
+I am interested in realizing micro and nanosystems & sensors in the optoelectronics. Engineering a nanoelectronic sensor in the tiny world is notoriously tough, as it most of time does not work well. Therefore, my interest for a novel device design lies in device modeling and simulation for predicting the potential performance; as following, device fabrication and measurements could be done, include
 1. advanced manufacturing (micro and nanofabrication in cleanroom);
 2. nanoelectromechanical device modeling (mathematical modeling, multiphysics simulation);
 3. hands-on experiments (microwave, electrical, optical readout).
 
-my research goal aims at engineering-guided nanosensors making humans live healthier and safer. For example, nanoelectronic NEMS and semiconductor nanolasers are involved in quantum circuits sensors, CMOS-compatible device technology as well as biomedical imaging.
-
-My current research focuses on realizing **semiconductor nanolasers** using
-
-1. whispering gallery mode (WGM) device modeling calculation;
-2. multiphysics simulation device design;
-3. nanofabrication for semiconductor nanolasers;
-4. optoelectronic readout measurements.
+my research goal aims at engineering-guided nanosensors making humans live healthier and safer. For example, nanoelectronic NEMS and **semiconductor nanolasers** are involved in quantum circuits sensors, CMOS-compatible device technology and biomedical imaging.
 
 <img src="https://hxu121.github.io/images/laserarray_102026.jpg?raw=true" alt="Photo" style="width: 500px;"/><br/> _Nanolaser array_
 
