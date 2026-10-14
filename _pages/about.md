@@ -10,15 +10,24 @@ redirect_from:
 
 Welcome! I am Hao Xu, currently a Postdoctoral Research Fellow (in semiconductor nanosensors) in the [Nano-Optoelectronics Lab](https://nano-oelab.ee.tsinghua.edu.cn/Home/Jsxx/jsxx_1?lang=en&id=810) at Tsinghua University. Prior to here, I received my PhD (in nanoelectronics) at the Institute for Electronics, Microelectronics and Nanotechnology ([IEMN](https://www.iemn.fr/en/)), CNRS/Univ. Lille, France.
 
-My research focuses on the micro and nanosystems & sensors realization by
+## Research
 
-* Advanced manufacturing (micro and nanofabrication in cleanroom)
-* Nanoelectromechanical device modeling (mathematical modeling, multiphysics simulation)
-* Hands-on experiments (microwave, electrical, optical readout)
+I am interested in the micro and nanosystems & sensors realization by
+
+1. advanced manufacturing (micro and nanofabrication in cleanroom);
+2. nanoelectromechanical device modeling (mathematical modeling, multiphysics simulation);
+3. hands-on experiments (microwave, electrical, optical readout).
 
 my research goal aims at engineering-guided nanosensors making humans live healthier and safer. For example, nanoelectronic NEMS and semiconductor nanolasers are involved in quantum circuits sensors, CMOS-compatible device technology as well as biomedical imaging.
 
-In particular, nanotip/membrane electronic interface and principles in the nanoscale have been studied during my PhD. Then, my research further explores the neuroelectronic device (in NeuronTech), including device engineering design, proof-of-concept principles and neural signal acquisition & processing. These problems-solving techniques will benefit for the disabilities (e.g., paralyzed people).
+My current research focuses on realizing semiconductor nanosensors (lasers) by
+
+1. whispering gallery mode (WGM) device modeling calculation;
+2. multiphysics simulation device design;
+3. nanofabrication for semiconductor nanolasers;
+4. optoelectronic readout measurements.
+
+In particular, AFM-tip/membrane electronic interface and principles in the nanoscale have been studied during my PhD study. Then future plan, my research further explores the neuroelectronic device (in NeuronTech), including device engineering design, proof-of-concept principles and neural signal acquisition & processing. These problems-solving techniques will benefit for the disabilities (e.g., paralyzed people).
 
 ## Short C.V.
 
