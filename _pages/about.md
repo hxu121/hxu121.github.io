@@ -20,7 +20,7 @@ I am interested in the micro and nanosystems & sensors realization by
 
 my research goal aims at engineering-guided nanosensors making humans live healthier and safer. For example, nanoelectronic NEMS and semiconductor nanolasers are involved in quantum circuits sensors, CMOS-compatible device technology as well as biomedical imaging.
 
-My current research focuses on realizing **semiconductor nanosensors (lasers)** using
+My current research focuses on realizing **semiconductor nanolasers** using
 
 1. whispering gallery mode (WGM) device modeling calculation;
 2. multiphysics simulation device design;
