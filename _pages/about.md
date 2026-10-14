@@ -12,7 +12,7 @@ Welcome! I am Hao Xu, currently a Postdoctoral Research Fellow (in semiconductor
 
 ## Research
 
-I am interested in realizing micro and nanosystems & sensors in the optoelectronics. Engineering a nanoelectronic sensor in the tiny world is notoriously tough, and it most of time does not work well. Therefore, my interest for a novel device design lies in device modeling and simulation for predicting the potential performance; as following, device fabrication and measurements could be done. My expertise skills include
+I am interested in realizing nanoelectronic sensors and revealing their novel physical effects in the nanoscale. Engineering a nanoelectronic sensor in the tiny world is notoriously tough, and it most of time does not work well. Therefore, my interest for a novel device design lies in device modeling and simulation for predicting the potential performance; as following, device fabrication and measurements could be done. My expertise skills include
 1. advanced manufacturing (micro and nanofabrication in cleanroom);
 2. nanoelectromechanical device modeling (mathematical modeling, multiphysics simulation);
 3. hands-on experiments (microwave, electrical, optical readout).
