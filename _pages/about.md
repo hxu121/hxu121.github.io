@@ -20,14 +20,16 @@ I am interested in the micro and nanosystems & sensors realization by
 
 my research goal aims at engineering-guided nanosensors making humans live healthier and safer. For example, nanoelectronic NEMS and semiconductor nanolasers are involved in quantum circuits sensors, CMOS-compatible device technology as well as biomedical imaging.
 
-My current research focuses on realizing semiconductor nanosensors (lasers) by
+My current research focuses on realizing **semiconductor nanosensors (lasers)** using
 
 1. whispering gallery mode (WGM) device modeling calculation;
 2. multiphysics simulation device design;
 3. nanofabrication for semiconductor nanolasers;
 4. optoelectronic readout measurements.
 
-In particular, AFM-tip/membrane electronic interface and principles in the nanoscale have been studied during my PhD study. Then future plan, my research further explores the neuroelectronic device (in NeuronTech), including device engineering design, proof-of-concept principles and neural signal acquisition & processing. These problems-solving techniques will benefit for the disabilities (e.g., paralyzed people).
+<img src="https://hxu121.github.io/images/laserarray_102026.jpg?raw=true" alt="Photo" style="width: 500px;"/><br/> _*Nanolaser array, copyright by Hao Xu*_
+
+In particular, [AFM-tip/membrane](https://doi.org/10.1021/acs.nanolett.4c01401) electronic interface and principles in the nanoscale have been studied during my PhD study. Then future plan, my research further explores the neuroelectronic device (in NeuronTech), including device engineering design, proof-of-concept principles and neural signal acquisition & processing. These problems-solving techniques will benefit for the disabilities (e.g., paralyzed people).
 
 ## Short C.V.
 
